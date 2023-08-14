@@ -4,7 +4,7 @@ This repository contains a clone of the Netflix landing page, created as a proje
 
 ![Netflix Landing Page Clone](screenshot.png)
 
-## Demo
+<!--## Demo
 
 You can see a live demo of the Netflix Landing Page Clone at [Demo Link](https://your-demo-link.com).
 
@@ -41,4 +41,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-**Disclaimer:** This project is intended for educational purposes only. It is not associated with Netflix or its official website in any way.
+**Disclaimer:** This project is intended for educational purposes only. It is not associated with Netflix or its official website in any way.--!>
